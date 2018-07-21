@@ -11,5 +11,5 @@ So I decided to make an App by myself and make it available on the App Store und
 More information can be seen on this site:
 https://azuretabstorclient.wordpress.com/
 The App is not free, so  not the complete code will be shown here on GitHub.
-However in the next week some code snippets will be shown here as examples how things were done.
+However in the next weeks some code snippets will be shown here as examples how things were done.
 
