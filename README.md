@@ -10,6 +10,6 @@ However this App is actually not available on the App Store.
 So I decided to make an App by myself and make it available on the App Store under this link: https://itunes.apple.com/us/app/azuretabstorclient/id1399683806?mt=8 
 More information can be seen on this site:
 https://azuretabstorclient.wordpress.com/
-The App is not free, so  not the complete code will be shown here on GitHub.
-However in the next weeks some code snippets will be shown here as examples how things were done.
+
+The App is not free.
 
